@@ -1,5 +1,5 @@
 # Hi 👋 There, My name is GHULAM AMMAR YANUAR
-<br>Web Developer, Specialist As a Frontend Developer<br>🌍  I'm based in Cilacap, Indonesian<br>⚡  I am addicted to Coding , Design , Sports , Learn about Software Engineering
+<br>I am Specialist As a Frontend Developer<br>🌍  I am based in Cilacap, Indonesian<br>⚡  I am addicted to Coding , Design , Sports , Learn about Software Engineering
 
 
 ## 🌐 Socials:
