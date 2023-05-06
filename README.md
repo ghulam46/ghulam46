@@ -1,4 +1,4 @@
-# Hi 👋 There, My name is GHULAM AMMAR YANUAR
+# Hi 👋 Folks, My name is GHULAM AMMAR YANUAR
 <br>I am Specialist As a Frontend Developer<br>🌍  I am based in Yogyakarta, Indonesian<br>⚡  I am addicted to Coding , Software Engineering , Design , Workouts
 
 
