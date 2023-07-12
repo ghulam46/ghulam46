@@ -1,5 +1,5 @@
 # Hi 👋 Folks, My name is GHULAM AMMAR YANUAR
-<br>💻  I'm Specialist As a Frontend Developer<br>🌱 I’m currently learning Javascript<br>🌍  I'm based in Cilacap, working in Yogyakarta, Indonesian as a Frontend Developer<br>⚡  I'm addicted to Coding , Software Engineering , Design , Workouts
+<br>💻  I'm Specialist As a Frontend Developer<br>🌱 I’m currently learning Javascript<br>🌍  I'm based in Cilacap<br>🔭 I’m currently working in Yogyakarta as a Frontend Developer<br>⚡  I'm addicted to Coding , Software Engineering , Design , Workouts
 
 
 ## 🌐 Socials:
