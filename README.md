@@ -1,4 +1,4 @@
-# Hi 👋 Folks, My name is GHULAM AMMAR YANUAR
+# Hi 👋 Folks, My name is Ghulam Ammar Yanuar
 <br>💻  I'm Specialist As a Frontend Developer<br>🌱 I’m currently learning Javascript<br>🌍  I'm based in Cilacap, Indonesia<br>🔭 I’m currently working in Yogyakarta as a Frontend Developer<br>⚡  I'm addicted to Coding , Software Engineering , Design , Workouts
 
 
