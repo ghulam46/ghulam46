@@ -12,6 +12,8 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ghulam46&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghulam46&theme=gotham&hide_border=true)<br/>
+![Ghulam46's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghulam46&theme=onedark&hide_border=false)<br/>
+![Ghulam46's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghulam46&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulam46&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 <!-- 
 ## 🏆 GitHub Trophies
