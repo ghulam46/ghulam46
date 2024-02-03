@@ -1,5 +1,5 @@
 # Hi 👋 Folks, My name is Ghulam Ammar Yanuar
-<br>💻  I'm Specialist As a Frontend Web Developer<br>🌱 I’m currently learning Javascript, Blockchain<br>🌍  I'm based in Cilacap, Indonesia<br>🔭 I’m currently working in Yogyakarta as a Frontend Developer<br>⚡  I'm addicted to Coding , Software Engineering , Design , Workouts
+<br>💻  I'm Specialist As a Frontend Web Developer<br>🌱 I’m currently learning Javascript, Blockchain<br>🌍  I'm based in Indonesia<br>🔭 I’m currently working in Yogyakarta as a Frontend Web Developer<br>⚡  I'm addicted to Coding , Software Engineering , Design , Workouts
 
 
 ## 🌐 Socials:
